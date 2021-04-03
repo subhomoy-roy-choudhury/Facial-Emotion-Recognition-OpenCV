@@ -57,20 +57,3 @@ def emotion():
         else :
             print('not found')
     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
