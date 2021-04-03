@@ -55,7 +55,7 @@ def emotion():
                 print("\n [INFO] Done detecting and Image is saved")
                 return label 
         else :
-            print('mot found')
+            print('not found')
     
 
 
