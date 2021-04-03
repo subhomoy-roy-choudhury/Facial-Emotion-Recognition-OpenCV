@@ -54,20 +54,3 @@ for(x,y,w,h) in faces:
 cv2.imwrite("opencv_test.png",img) 
 
 print("\n [INFO] Done detecting and Image is saved")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
